@@ -4,122 +4,122 @@
     {
       "level": "H1",
       "text": "MODULE-1 (XHTML)",
-      "page": 1
+      "page": 3
     },
     {
       "level": "H2",
       "text": "1. Develop and demonstrate a XHTML file that creates a College web site with forms, frames, links, tables.",
-      "page": 1
+      "page": 3
     },
     {
       "level": "H2",
       "text": "2. Design a Shopping web site using HTML and DHTML. Use Basic text Formatting, Images.",
-      "page": 2
+      "page": 8
     },
     {
       "level": "H2",
       "text": "3. Design a Ticket Booking Web site using XHTML , Use various level of CSS.",
-      "page": 3
+      "page": 10
     },
     {
       "level": "H1",
       "text": "MODULE-2 (HTML-5)",
-      "page": 4
+      "page": 11
     },
     {
       "level": "H2",
       "text": "1. Develop and demonstrate a XHTML file with Canvas and local storage concepts.",
-      "page": 4
+      "page": 12
     },
     {
       "level": "H2",
       "text": "2. Demonstrate XHTML Sections.",
-      "page": 4
+      "page": 12
     },
     {
       "level": "H2",
       "text": "3. Develop and demonstrate a XHTML file that creates a Computer Science Book repository website with XHTML forms.",
-      "page": 5
+      "page": 14
     },
     {
       "level": "H1",
       "text": "MODULE-3 (JAVASCRIPT)",
-      "page": 6
+      "page": 17
     },
     {
       "level": "H2",
       "text": "1. Develop and demonstrate a XHTML file that includes Javascript script for the following problems:",
-      "page": 6
+      "page": 17
     },
     {
       "level": "H3",
       "text": "a) INPUT: A number n obtained using prompt OUTPUT: The first n Fibonacci numbers",
-      "page": 6
+      "page": 17
     },
     {
       "level": "H3",
       "text": "b) INPUT: A number n obtained using prompt OUTPUT: A table of numbers from 1 to n and their squares using alert box.",
-      "page": 6
+      "page": 17
     },
     {
       "level": "H2",
       "text": "2. a) XHTML document to collect and validate USN using Javascript",
-      "page": 7
+      "page": 20
     },
     {
       "level": "H3",
       "text": "b) Modify the above program to get the current semester also (restricted to be a number from 1 to 8)",
-      "page": 7
+      "page": 20
     },
     {
       "level": "H2",
       "text": "3. a) XHTML document with 3 paragraphs stacked; mouseover brings one to top",
-      "page": 8
+      "page": 22
     },
     {
       "level": "H3",
       "text": "b) Modify to restore paragraph to original position when moved",
-      "page": 9
+      "page": 22
     },
     {
       "level": "H1",
       "text": "MODULE-4 (PHP Programming)",
-      "page": 10
+      "page": 27
     },
     {
       "level": "H2",
       "text": "1. PHP program to store current date-time in a COOKIE and display 'Last visited on'",
-      "page": 10
+      "page": 27
     },
     {
       "level": "H2",
       "text": "2. PHP program to store page views count in SESSION and increment on each refresh",
-      "page": 11
+      "page": 28
     },
     {
       "level": "H2",
       "text": "3. PHP program to insert user input into MySQL table and display contents",
-      "page": 11
+      "page": 29
     },
     {
       "level": "H1",
       "text": "MODULE-5 (XML)",
-      "page": 12
+      "page": 34
     },
     {
       "level": "H2",
       "text": "1. XML document for student information with CSS styling",
-      "page": 12
+      "page": 34
     },
     {
       "level": "H2",
       "text": "2. Create an XSLT style sheet for a student element",
-      "page": 13
+      "page": 36
     },
     {
       "level": "H2",
       "text": "3. Demonstrate jQuery serialize() method",
-      "page": 14
+      "page": 37
     }
   ]
 }
