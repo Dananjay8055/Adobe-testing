@@ -1,0 +1,22 @@
+{
+  "title": "Combining heuristics and Exact Algorithms: A Review",
+  "outline": [
+    { "level": "H1", "text": "Combining heuristics and Exact Algorithms: A Review", "page": 1 },
+    { "level": "H2", "text": "Abstract", "page": 1 },
+    { "level": "H2", "text": "Index Terms", "page": 1 },
+    { "level": "H2", "text": "INTRODUCTION", "page": 1 },
+    { "level": "H2", "text": "Structural Models for Combining Metaheuristics with Exact Approaches", "page": 2 },
+    { "level": "H3", "text": "Collaborative Combinations", "page": 3 },
+    { "level": "H3", "text": "Integrative Combinations", "page": 3 },
+    { "level": "H2", "text": "Matheuristics For Vehicle Routing Problem: A Review", "page": 4 },
+    { "level": "H3", "text": "Decomposition Approaches", "page": 4 },
+    { "level": "H4", "text": "Cluster first-route second approaches", "page": 5 },
+    { "level": "H3", "text": "Improvement Heuristics", "page": 6 },
+    { "level": "H3", "text": "Branch and price/column generation-based approaches", "page": 6 },
+    { "level": "H4", "text": "restricted master heuristics", "page": 7 },
+    { "level": "H4", "text": "heuristic branching approaches", "page": 7 },
+    { "level": "H4", "text": "relaxation-based approaches", "page": 7 },
+    { "level": "H2", "text": "GENERAL DISCUSSION AND CONCLUSION", "page": 8 },
+    { "level": "H2", "text": "References", "page": 9 }
+  ]
+}
