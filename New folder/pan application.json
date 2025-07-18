@@ -1,0 +1,100 @@
+{
+  "title": "PAN Card Application Form (Form 49A)",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "PAN Card Application Form",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Applicant Details",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Full Name (Full expanded name to be mentioned as appearing in proof of identity/address documents)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Abbreviation of the above name (if any)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Have you ever been known by any other name?",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Gender",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Date of Birth/Incorporation/Agreement/Partnership or Trust Deed/Formation of Body of Individuals/Association of Persons",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Father's Name",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Address Details",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Residential Address",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Office Address",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Contact Details",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Telephone Number",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Email ID",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Status of Applicant",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Registration Number (if applicable)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Documents Submitted as Proof",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Declaration",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "For Office Use Only",
+      "page": 1
+    }
+  ]
+}

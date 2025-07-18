@@ -1,0 +1,140 @@
+{
+  "title": "Layout-aware Text Extraction from Full-text PDFs of Scientific Articles",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Abstract",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Background",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Results",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Conclusions",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Background and Motivation",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Implementation",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Step 1 - Detecting contiguous text blocks",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Step 2 - Classifying text blocks into rhetorical categories",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Step 3 - Stitching classified text blocks together",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Results",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Step 1 - Evaluation",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Step 2 - Evaluation",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Step 3 - Evaluation",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Discussion",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Related Work",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion & Future Work",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Software Verification",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Availability and Requirements",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Project Name",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Operating System",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Programming Language",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "License",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Endnotes",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Acknowledgements",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Authors' Contributions",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Author Details",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "References",
+      "page": 12
+    }
+  ]
+}

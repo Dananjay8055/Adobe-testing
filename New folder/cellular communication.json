@@ -1,0 +1,90 @@
+{
+  "title": "UNIT-5: Cellular Communication",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Cellular Communication",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Cellular phone systems",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Cell Splitting",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Microcell",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Macrocell",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Frequency Bands used in Cellular communication",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "ARFCN (Absolute Radio Frequency Channel Number)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Frequency reuse",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Roaming",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Handoff in Wireless Mobile Networks",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "SIM card",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Functionality of the SIM card",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "IMEI number",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Data encryption",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Architecture of Cellular mobile communication network",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Block diagram of Cellular phone hand set",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Qualitative study of GSM and CDMA",
+      "page": 7
+    }
+  ]
+}

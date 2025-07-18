@@ -1,0 +1,140 @@
+{
+  "title": "School Admission Form",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "School Admission Form",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Student Details",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "First Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Middle Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Last Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Date of Birth",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Place of Birth",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Gender",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Nationality",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Parent/Guardian Information",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Father’s Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Mother’s Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Occupation",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Contact Number",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Email",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Address Information",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Residential Address",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "City",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "State",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Pin Code",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Academic Details",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Last School Attended",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Grade Applying For",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Academic Year",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Documents Submitted",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Declaration",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "For Office Use Only",
+      "page": 1
+    }
+  ]
+}

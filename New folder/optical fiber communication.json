@@ -1,0 +1,115 @@
+{
+  "title": "Unit 4: Optical Fiber Communication",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Advantages of FOC",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Drawbacks of FOC",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Applications of FOC",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Block Diagram of OFC",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Fiber Optic Cables",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Classification of FOC",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Step Index Fiber",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Graded Index Fiber",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Light Propagation through Fiber",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Maximum Acceptance Angle",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Numerical Aperture (NA)",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Light Sources",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "LASER",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Optical Receivers (Light Detectors)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "PIN Diode",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Avalanche Photodiode (APD)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Losses in OFC",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Rayleigh Scattering Losses",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Absorption Losses",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Bending Losses",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Question Bank",
+      "page": 8
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "JSON Web Token (JWT) Technical Overview",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "JSON Web Tokens (JWTs)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Structure of JWT",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "JWT Claims",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "JWT Signature",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Use Cases",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Authentication",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Authorization",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Security Considerations",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Token Expiration and Revocation",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Token Leakage",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Signature Verification",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Best Practices",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "References",
+      "page": 6
+    }
+  ]
+}

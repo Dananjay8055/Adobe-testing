@@ -1,0 +1,70 @@
+{
+  "title": "Unit 3: RADAR Systems",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Basic Principle of Radar",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Frequencies and Powers Used in RADAR",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Pulsed RADAR System",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Factors Affecting Range of RADAR",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Doppler Effect",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "MTI RADAR",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Blind Speeds in MTI RADAR",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Continuous Wave (CW) RADAR",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Advantages of CW RADAR",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Limitations of CW RADAR",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Applications of CW RADAR",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Frequency-Modulated CW RADAR",
+      "page": 6
+    }
+  ]
+}
