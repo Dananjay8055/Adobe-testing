@@ -1,0 +1,25 @@
+{
+  "title": "Module: 4 Introduction of Raspberry",
+  "outline": [
+    { "level": "H1", "text": "Module: 4 Introduction of Raspberry", "page": 1 },
+    { "level": "H2", "text": "How does Raspberry Pi work?", "page": 1 },
+    { "level": "H2", "text": "Top 10 Features of Raspberry Pi", "page": 1 },
+    { "level": "H2", "text": "Uses of Raspberry Pi", "page": 3 },
+    { "level": "H2", "text": "Versions of Raspberry pi models", "page": 4 },
+    { "level": "H2", "text": "What is Raspberry Pi OS: Raspbian or Raspberry Pi OS", "page": 4 },
+    { "level": "H2", "text": "Key Features of Raspbian OS", "page": 5 },
+    { "level": "H2", "text": "Use Cases of Raspbian OS", "page": 5 },
+    { "level": "H2", "text": "Benefits of Using Raspbian OS", "page": 6 },
+    { "level": "H2", "text": "Interfacing Analog and Digital Devices in IoT", "page": 6 },
+    { "level": "H3", "text": "Interfacing Analog Devices", "page": 6 },
+    { "level": "H3", "text": "Analog-to-Digital Conversion (ADC)", "page": 6 },
+    { "level": "H3", "text": "Connecting Analog Sensors", "page": 6 },
+    { "level": "H3", "text": "Interfacing Digital Devices", "page": 6 },
+    { "level": "H3", "text": "Digital to analog converter (DAC)", "page": 6 },
+    { "level": "H2", "text": "Enabling network connectivity in IoT", "page": 7 },
+    { "level": "H2", "text": "Connecting with a web server in IoT", "page": 8 },
+    { "level": "H2", "text": "API Connectivity: OpenWeatherMap API in IoT", "page": 9 },
+    { "level": "H2", "text": "Key Features of OpenWeatherMap API", "page": 9 },
+    { "level": "H2", "text": "Benefits of Using OpenWeatherMap API in IoT", "page": 9 }
+  ]
+}
